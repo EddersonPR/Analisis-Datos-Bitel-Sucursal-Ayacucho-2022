@@ -44,7 +44,7 @@
 -  Usar visuales con títulos claros y formato profesional.
 -  licar nombres consistentes en medidas y tablas.
 
-#🎯 Objetivo Final
+# 🎯 Objetivo Final
 -  Que cualquier Gerente Comercial pueda, en 5 minutos, entender:
 -  Cómo vendió Ayacucho en 2022.
 -  Dónde están sus mejores canales, vendedores y tiendas.
